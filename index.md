@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. 
+I received the B.E degree in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020. I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. I am trying to apply machine learning methods to robotics and use multiple sensor data for enhanced perception capability of robots and intelligent vehicles.
+
 
 ## Research Interests
 
