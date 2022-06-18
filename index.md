@@ -14,7 +14,7 @@ I’m currently a Master student in Intelligent Vehicle Research Center at Beiji
 
 - **[May. 2020]** Our paper _OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition_ is accepted to **RAL/IROS 2022**.
 - **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
-- **[Jun. 2021]** Our paper _Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems_ is accepted to **2021 4th IEEE International Conference on Unmanned Systems (ICUS), Beijing, China**.
+- **[Jun. 2021]** Our paper _Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems_ is accepted to ICUS 2021**.
 
 ## Publications
 
