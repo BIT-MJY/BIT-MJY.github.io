@@ -4,47 +4,71 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Localization and Mapping, Probabilistic Deep Learning, Robotics.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2020]** Our paper OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition is accepted to **RAL/IROS 2022**.
+- **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
+- **[Jun. 2021]** Our paper _Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems_ is accepted to **2021 4th IEEE International Conference on Unmanned Systems (ICUS), Beijing, China**.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen* 
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://ieeexplore.ieee.org/document/9785497)] [[Code](https://github.com/haomo-ai/OverlapTransformer)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao* 
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  IEEE Intelligent Vehicles Symposium (IV), 2022.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2202.11514.pdf)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jinyi Xu, Jiahui Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  Unmanned Systems (US).
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF]()] [[Code]()] 
+  
+- **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
+  <br>
+  **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
+  <br>
+  Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
+  
+  
+## Datasets
 
-## Services
+- Haomo Dataset
+  <br>
+  The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing.   
+  <br>
+[[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)]  
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+
+- Cues-Poses Dataset
+  <br>
+  A toy dataset about mapping multiple cues to mutual poses of robots.
+  <br>
+[[Description](https://github.com/BIT-MJY/Cues_Poses_Datasets)]  
+
+## Open-Source Projects
+
+- Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]
+- Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]
+- Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]
+
