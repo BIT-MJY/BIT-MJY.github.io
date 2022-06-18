@@ -73,3 +73,10 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 - Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]
 - Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]
 
+## Patents
+
+- 于会龙, 田子昂, 马君驿, 董昊天, 席军强, & 熊光明. 一种地下空间用多功能无人平台. (授权)
+- 于会龙, 田子昂, 马君驿, 董昊天, 席军强, & 熊光明. 地下空间用多功能无人履带车. (授权)
+- 熊光明, 马君驿, 许景懿, & 宋佳睿. 一种基于可靠性分析的多机器人协同定位与建图方法. (受理)
+
+
