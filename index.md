@@ -12,7 +12,7 @@ I’m currently a Master student in Intelligent Vehicle Research Center at Beiji
 
 ## News
 
-- **[May. 2020]** Our paper OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition is accepted to **RAL/IROS 2022**.
+- **[May. 2020]** Our paper _OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition_ is accepted to **RAL/IROS 2022**.
 - **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
 - **[Jun. 2021]** Our paper _Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems_ is accepted to **2021 4th IEEE International Conference on Unmanned Systems (ICUS), Beijing, China**.
 
@@ -55,10 +55,9 @@ I’m currently a Master student in Intelligent Vehicle Research Center at Beiji
 
 - Haomo Dataset
   <br>
-  The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing.   
+  The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing. 
   <br>
-[[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)]  
-
+[[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)]
 
 - Cues-Poses Dataset
   <br>
