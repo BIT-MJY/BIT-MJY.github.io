@@ -75,8 +75,9 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 
 ## Patents
 
-- 于会龙, 田子昂, **马君驿**, 董昊天, 席军强, & 熊光明. 一种地下空间用多功能无人平台. (授权)
-- 于会龙, 田子昂, **马君驿**, 董昊天, 席军强, & 熊光明. 地下空间用多功能无人履带车. (授权)
-- 熊光明, **马君驿**, 许景懿, & 宋佳睿. 一种基于可靠性分析的多机器人协同定位与建图方法. (受理)
+- [China Utility Model] Huilong Yu, Ziang Tian, Junyi Ma, Haotian Dong, Junqiang Xi, and Guangming Xiong. A multifunctional unmanned platform for subterranean space. ZL202123083457.8
+- [China Appearance Design] Huilong Yu, Ziang Tian, Junyi Ma, Haotian Dong, Junqiang Xi, and Guangming Xiong. A multifunctional unmanned caterpillar for subterranean space. ZL202130813635.4
+- [China Invention Publication] Guangming Xiong, Junyi Ma, Jingyi Xu, and Jiarui Song. A reliability analysis-based multi-robot cooperative localization and mapping method. 2021103183625
+
 
 
