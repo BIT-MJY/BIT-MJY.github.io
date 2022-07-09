@@ -42,7 +42,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   Unmanned Systems (US).
   <br>
-  [[PDF]()] [[Code]()] 
+  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)] 
   
 - **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
   <br>
