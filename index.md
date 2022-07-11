@@ -26,8 +26,8 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9785497)] [[Code](https://github.com/haomo-ai/OverlapTransformer)] 
-
+  [[PDF](https://ieeexplore.ieee.org/document/9785497)] [[Code](https://github.com/haomo-ai/OverlapTransformer)]   
+  ![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  
 - **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
   <br>
   Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao* 
