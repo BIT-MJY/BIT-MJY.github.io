@@ -26,7 +26,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9785497)] [[Code](https://github.com/haomo-ai/OverlapTransformer)]![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)   
+  [[PDF](https://ieeexplore.ieee.org/document/9785497)]  [[Code](https://github.com/haomo-ai/OverlapTransformer)]  ![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)   
    
 - **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
   <br>
@@ -34,7 +34,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Intelligent Vehicles Symposium (IV), 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2202.11514.pdf)] [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]
+  [[PDF](https://arxiv.org/pdf/2202.11514.pdf)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
@@ -42,7 +42,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   Unmanned Systems (US).
   <br>
-  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)] 
+  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
   
 - **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
   <br>
@@ -50,7 +50,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
   <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]
+  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
   
   
 ## Datasets
