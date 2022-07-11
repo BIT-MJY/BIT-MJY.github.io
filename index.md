@@ -73,10 +73,12 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
 
 ## Open-Source Projects
 
-- Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]
-- Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]
-- Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]
-
+- Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Multiple_Lidar_Calibration.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Multiple_Lidar_Calibration.svg)   
+- Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  
+- Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/occupancy_grid_mapping.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/occupancy_grid_mapping.svg)    
 ## Patents
 
 - [China Utility Model] Huilong Yu, Ziang Tian, Junyi Ma, Haotian Dong, Junqiang Xi, and Guangming Xiong. A multifunctional unmanned platform for subterranean space. ZL202123083457.8
