@@ -79,6 +79,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  
 - Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/occupancy_grid_mapping.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/occupancy_grid_mapping.svg)    
+  
 ## Patents
 
 - [China Utility Model] Huilong Yu, Ziang Tian, Junyi Ma, Haotian Dong, Junqiang Xi, and Guangming Xiong. A multifunctional unmanned platform for subterranean space. ZL202123083457.8
