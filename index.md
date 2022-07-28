@@ -35,7 +35,7 @@ I received the B.E degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Intelligent Vehicles Symposium (IV), 2022.
   <br>
-  [[PDF](https://arxiv.org/pdf/2202.11514.pdf)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
+  [[PDF](https://ieeexplore.ieee.org/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
