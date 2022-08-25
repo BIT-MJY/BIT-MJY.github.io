@@ -12,7 +12,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 - Localization and Mapping, Probabilistic Deep Learning, Robotics.
 
 ## News
-- **[Aug. 2022]** Our paper _Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds_ is accepted to **ICUS 2021**.
+- **[Aug. 2022]** Our paper _Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds_ is accepted to **ICUS 2022**.
 - **[May. 2022]** Our paper _OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition_ is accepted to **RAL/IROS 2022**.
 - **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
 - **[Apr. 2022]** Our paper _A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles_ is accepted to **IV 2022**.
