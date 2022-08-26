@@ -38,6 +38,15 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://ieeexplore.ieee.org/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
 
+- **Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds**
+  <br>
+  Zhen Luo, **Junyi Ma**, Guangming Xiong*, Xiuzhong Hu, Zijie Zhou, Jiahui Xu 
+  <br>
+  IEEE International Conference on Unmanned Systems (ICUS), 2022.
+  <br>
+  [[PDF]()]  [[Code](https://github.com/Blurryface0814/SunnyNet)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
+
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
   Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu
