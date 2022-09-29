@@ -20,6 +20,15 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+- **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
+  <br>
+  **Junyi Ma**, Xieyuanli Chen, Jingyi Xu, Guangming Xiong* 
+  <br>
+  Submitted to IEEE Transactions on Industrial Electronics。
+  <br>
+  [[PDF](https://arxiv.org/abs/2209.07951)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
+
 - **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
   <br>
   **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen* 
