@@ -27,7 +27,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE Transactions on Industrial Electronics.
   <br>
-  [[PDF](https://arxiv.org/abs/2209.07951)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
+  [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
 
 - **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
