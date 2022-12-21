@@ -25,7 +25,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   **Junyi Ma**, Xieyuanli Chen, Jingyi Xu, Guangming Xiong* 
   <br>
-  IEEE Transactions on Industrial Electronics, 2022.
+  IEEE Transactions on Industrial Electronics (TIE), 2022.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
