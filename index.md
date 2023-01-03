@@ -54,7 +54,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   IEEE International Conference on Unmanned Systems (ICUS), 2022.
   <br>
-  [[PDF]()]  [[Code](https://github.com/Blurryface0814/SunnyNet)]  
+  [[PDF](https://ieeexplore.ieee.org/document/9986567)]  [[Code](https://github.com/Blurryface0814/SunnyNet)]  
   ![Github stars](https://img.shields.io/github/stars/Blurryface0814/SunnyNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
