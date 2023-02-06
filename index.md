@@ -21,6 +21,16 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+- **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
+  <br>
+  **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
+  <br>
+  arXiv preprint arXiv:2302.01665, 2022.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)   
+
+
 - **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
   <br>
   **Junyi Ma**, Xieyuanli Chen, Jingyi Xu, Guangming Xiong* 
