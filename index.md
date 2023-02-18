@@ -108,7 +108,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  
 - Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/occupancy_grid_mapping.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/occupancy_grid_mapping.svg)    
-  - Stairs Recognition [[Code](https://github.com/BIT-MJY/stairs_recognition)]  
+- Stairs Recognition [[Code](https://github.com/BIT-MJY/stairs_recognition)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/stairs_recognition.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/stairs_recognition.svg)    
 ## Patents
 
