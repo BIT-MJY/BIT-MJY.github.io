@@ -33,7 +33,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 - **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction**
   <br>
-  Xiuzhong Hu, Guangming Xiong, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
+  Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
   <br>
   Green Energy and Intelligent Transportation, 2023.
   <br>
