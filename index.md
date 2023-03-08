@@ -12,6 +12,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 - Localization and Mapping, Probabilistic Deep Learning, Robotics.
 
 ## News
+- **[Mar. 2023]** Our paper _A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction_ is accepted to **Green Energy and Intelligent Transportation**.
 - **[Dec. 2022]** Our paper _SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data_ is accepted by **IEEE Transactions on Industrial Electronics**.
 - **[Aug. 2022]** Our paper _Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds_ is accepted to **ICUS 2022**.
 - **[May. 2022]** Our paper _OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition_ is accepted to **RAL/IROS 2022**.
@@ -29,6 +30,15 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)   
+
+- **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction**
+  <br>
+  Xiuzhong Hu, Guangming Xiong, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
+  <br>
+  Green Energy and Intelligent Transportation, 2023.
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
+  ![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg)   
 
 
 - **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
