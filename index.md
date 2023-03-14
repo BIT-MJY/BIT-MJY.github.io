@@ -94,8 +94,11 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
-  
-  
+
+## Other Contributions
+- **Pytorch Version for OverlapNet**
+[[Code](https://github.com/PRBonn/OverlapNet)]  
+![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg)  ![Github forks](https://img.shields.io/github/forks/PRBonn/OverlapNet.svg)    
 ## Datasets
 
 - Haomo Dataset
