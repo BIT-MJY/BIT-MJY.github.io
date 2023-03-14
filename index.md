@@ -98,7 +98,8 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 ## Other Contributions
 - **Pytorch Version for OverlapNet**
 [[Code](https://github.com/PRBonn/OverlapNet)]  
-![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg)  ![Github forks](https://img.shields.io/github/forks/PRBonn/OverlapNet.svg)    
+![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg)  ![Github forks](https://img.shields.io/github/forks/PRBonn/OverlapNet.svg)   
+
 ## Datasets
 
 - Haomo Dataset
