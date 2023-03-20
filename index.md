@@ -96,34 +96,30 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
 
 ## Other Contributions
-- **Pytorch Version for OverlapNet**
-[[Code](https://github.com/PRBonn/OverlapNet)]  
+- **Pytorch Version for OverlapNet** [[Code](https://github.com/PRBonn/OverlapNet)]  
 ![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg)  ![Github forks](https://img.shields.io/github/forks/PRBonn/OverlapNet.svg)   
+- **Multiple Lidar Calibration**  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Multiple_Lidar_Calibration.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Multiple_Lidar_Calibration.svg)   
+- **Active SLAM Based on Information Theory** [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  
+- **Occupancy Grid Mapping** [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/occupancy_grid_mapping.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/occupancy_grid_mapping.svg)    
+- **Stairs Recognition** [[Code](https://github.com/BIT-MJY/stairs_recognition)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/stairs_recognition.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/stairs_recognition.svg)    
 
 ## Datasets
 
-- Haomo Dataset
+- **Haomo Dataset**
   <br>
   The dataset was collected by a mobile robot built by HAOMO.AI Technology company equipped with a HESAI PandarXT 32-beam LiDAR sensor in urban environments of Beijing. 
   <br>
 [[Description](https://github.com/haomo-ai/OverlapTransformer/tree/master/Haomo_Dataset)]
 
-- Cues-Poses Dataset
+- **Cues-Poses Dataset**
   <br>
   A toy dataset about mapping multiple cues to mutual poses of robots.
   <br>
 [[Description](https://github.com/BIT-MJY/Cues_Poses_Datasets)]  
-
-## Open-Source Projects
-
-- Multiple Lidar Calibration  [[Code](https://github.com/BIT-MJY/Multiple_Lidar_Calibration)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Multiple_Lidar_Calibration.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Multiple_Lidar_Calibration.svg)   
-- Active SLAM Based on Information Theory [[Code](https://github.com/BIT-MJY/Active_SLAM_Based_on_Information_Theory)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Active_SLAM_Based_on_Information_Theory.svg)  
-- Occupancy Grid Mapping [[Code](https://github.com/BIT-MJY/occupancy_grid_mapping)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/occupancy_grid_mapping.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/occupancy_grid_mapping.svg)    
-- Stairs Recognition [[Code](https://github.com/BIT-MJY/stairs_recognition)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/stairs_recognition.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/stairs_recognition.svg)    
 
 ## Patents
 
