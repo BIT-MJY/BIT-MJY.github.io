@@ -35,7 +35,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
   <br>
-  Green Energy and Intelligent Transportation, 2023.
+  Green Energy and Intelligent Transportation (GEIT), 2023.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
   ![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg)   
