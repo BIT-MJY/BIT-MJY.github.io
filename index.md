@@ -31,6 +31,15 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)   
 
+- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction**
+  <br>
+  Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
+  <br>
+  arXiv preprint arXiv:2304.07773, 2023.
+  <br>
+  [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
+  ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
+
 - **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction**
   <br>
   Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
