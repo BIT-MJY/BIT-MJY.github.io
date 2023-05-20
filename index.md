@@ -35,7 +35,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 - **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#e74d3c">Mentorship</i></strong>
   <br>
-  Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong* 
+  Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
   <br>
   IEEE Robotics and Automation Letters (RA-L), 2023.
   <br>
