@@ -33,7 +33,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)   
 
-- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction**
+- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <font color="red"> Mentorship </font>
   <br>
   Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong* 
   <br>
