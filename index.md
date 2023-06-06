@@ -40,8 +40,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   IEEE Robotics and Automation Letters (RA-L), 2023.
   <br>
   [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
-  ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
-
+<!--   ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
+ -->
+ 
 - **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction**
   <br>
   Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
@@ -49,8 +50,8 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   Green Energy and Intelligent Transportation (GEIT), 2023.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
-  ![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg)   
-
+<!--   ![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg) 
+ -->
 
 - **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
   <br>
@@ -59,8 +60,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   IEEE Transactions on Industrial Electronics (TIE), 2022.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
-
+<!--   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
+ -->
+ 
 - **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
   <br>
   **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen* 
@@ -68,8 +70,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
   <br>
   [[PDF](https://arxiv.org/pdf/2203.03397.pdf)]  [[Code](https://github.com/haomo-ai/OverlapTransformer)]  
-  ![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)   
-   
+<!--   ![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)   
+    -->
+    
 - **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
   <br>
   Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao* 
@@ -77,8 +80,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   IEEE Intelligent Vehicles Symposium (IV), 2022.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
-
+<!--   ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
+ -->
+ 
 - **Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds**
   <br>
   Zhen Luo, **Junyi Ma**, Guangming Xiong*, Xiuzhong Hu, Zijie Zhou, Jiahui Xu 
@@ -86,8 +90,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   IEEE International Conference on Unmanned Systems (ICUS), 2022.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9986567)]  [[Code](https://github.com/Blurryface0814/SunnyNet)]  
-  ![Github stars](https://img.shields.io/github/stars/Blurryface0814/SunnyNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
-
+<!--   ![Github stars](https://img.shields.io/github/stars/Blurryface0814/SunnyNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
+ -->
+ 
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
   <br>
   Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu
@@ -95,8 +100,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   Unmanned Systems (US).
   <br>
   [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
-  
+<!--   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
+   -->
+   
 - **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
   <br>
   **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
@@ -104,8 +110,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
-  ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
-
+<!--   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
+ -->
+ 
 ## Other Contributions
 - **Pytorch Version for OverlapNet** [[Code](https://github.com/PRBonn/OverlapNet)]  
 ![Github stars](https://img.shields.io/github/stars/PRBonn/OverlapNet.svg)  ![Github forks](https://img.shields.io/github/forks/PRBonn/OverlapNet.svg)   
