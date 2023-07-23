@@ -9,9 +9,10 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Research Interests
 
-- Localization and Mapping
 - Robotics
 - Intelligent Vehicles
+- Computer Vision
+- Localization and Mapping
 
 ## News
 - **[May. 2023]** Our paper _PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction_ is accepted to **RAL**.
