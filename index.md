@@ -45,7 +45,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 <!--   ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
  -->
  
-- **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction** <strong><i style="color:#e74d3c">Supervisor First</i></strong>
+- **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction** 
   <br>
   Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
   <br>
@@ -95,7 +95,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 <!--   ![Github stars](https://img.shields.io/github/stars/Blurryface0814/SunnyNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
  -->
  
-- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments**
+- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments** <strong><i style="color:#e74d3c">Supervisor First</i></strong>
   <br>
   Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu 
   <br>
