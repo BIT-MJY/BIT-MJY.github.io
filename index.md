@@ -114,6 +114,14 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
 <!--   ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
  -->
+
+- **Cooperative Control and Autonomous Driving System for Multi-Robot in the No Man’s Land**
+  <br>
+  **Junyi Ma**, Jingyi Xu, Quanfu Yu, Jiarui Song
+  <br>
+  2020 International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2020.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/9361811)] [[Code]()]  
  
 ## Other Contributions
 - **Pytorch Version for OverlapNet** [[Code](https://github.com/PRBonn/OverlapNet)]  
