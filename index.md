@@ -119,7 +119,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   **Junyi Ma**, Jingyi Xu, Quanfu Yu, Jiarui Song
   <br>
-  2020 International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2020.
+  International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2020.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/9361811)] [[Code]()]  
  
