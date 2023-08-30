@@ -158,6 +158,6 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 ## Teaching Experiences
 
 - Mentorship on point cloud prediction [[Paper](https://arxiv.org/abs/2304.07773)] 
-- "面向自动驾驶应用的激光雷达地点识别 (Lidar-Based Place Recognition for Autonomous Driving Applications)" in 深蓝学院 (shenlanxueyuan.com) [[link](https://www.shenlanxueyuan.com/open/course/188)]
+- "面向自动驾驶应用的激光雷达地点识别 (LiDAR-Based Place Recognition for Autonomous Driving Applications)" in 深蓝学院 (shenlanxueyuan.com) [[link](https://www.shenlanxueyuan.com/open/course/188)]
 
 
