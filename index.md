@@ -155,5 +155,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 - [China Appearance Design] Huilong Yu, Ziang Tian, **Junyi Ma**, Haotian Dong, Junqiang Xi, and Guangming Xiong. A multifunctional unmanned caterpillar for subterranean space. ZL202130813635.4
 - [China Invention Publication] Guangming Xiong, **Junyi Ma**, Jingyi Xu, and Jiarui Song. A reliability analysis-based multi-robot cooperative localization and mapping method. ZL202110318362.5
 
+## Teaching Experiences
+
+- Mentorship on point cloud prediction [[Paper](https://arxiv.org/abs/2304.07773)] 
+- "面向自动驾驶应用的激光雷达地点识别 (Lidar-Based Place Recognition for Autonomous Driving Applications)" in 深蓝学院 (shenlanxueyuan.com) [[link](https://www.shenlanxueyuan.com/open/course/188)]
 
 
