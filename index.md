@@ -15,7 +15,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 - Localization and Mapping
 
 ## News
-- **[May. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
+- **[Sep. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
 - **[May. 2023]** Our paper _PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction_ is accepted to **RAL**, which will also be transferred to **ICRA 2024**.
 - **[Mar. 2023]** Our paper _A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction_ is accepted to **Green Energy and Intelligent Transportation**.
 - **[Dec. 2022]** Our paper _SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data_ is accepted by **IEEE Transactions on Industrial Electronics**.
