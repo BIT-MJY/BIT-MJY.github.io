@@ -26,6 +26,15 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+- **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**
+  <br>
+  Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, **Junyi Ma***
+  <br>
+  arXiv preprint arXiv:2310.00874, 2023.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/biter0088/pc-nerf)]  
+
+
 - **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
   <br>
   **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
