@@ -39,9 +39,9 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
   <br>
-  IEEE Transactions on Industrial Informatics (TII, not online yet), 2023.
+  IEEE Transactions on Industrial Informatics (TII), 2023.
   <br>
-  [[PDF](https://arxiv.org/pdf/2302.01665.pdf)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
+  [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
  
 - **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#e74d3c">Mentorship</i></strong>
