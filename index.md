@@ -33,7 +33,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   arXiv preprint arXiv:2310.00874, 2023.
   <br>
   [[PDF](https://arxiv.org/abs/2310.00874)]  [[Code](https://github.com/biter0088/pc-nerf)]  
-
+![Github stars](https://img.shields.io/github/stars/biter0088/pc-nerf.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/pc-nerf.svg)
 
 - **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
   <br>
