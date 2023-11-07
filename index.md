@@ -26,6 +26,16 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
+  <br>
+  Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
+  <br>
+  arXiv preprint arXiv:2311.03198, 2023.
+  <br>
+  [[PDF](https://arxiv.org/abs/2311.03198)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
+![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
+
+
 - **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**
   <br>
   Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, **Junyi Ma***
