@@ -38,7 +38,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 - **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**
   <br>
-  Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, **Junyi Ma***
+  Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han*, **Junyi Ma***
   <br>
   arXiv preprint arXiv:2310.00874, 2023.
   <br>
