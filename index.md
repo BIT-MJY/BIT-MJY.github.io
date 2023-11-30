@@ -26,6 +26,16 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 
 ## Publications
 
+- **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
+  <br>
+  **Junyi Ma#**, Xieyuanli Chen#, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
+  <br>
+  arXiv preprint arXiv:2311.17663, 2023.
+  <br>
+  [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
+![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
+
+
 - **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
