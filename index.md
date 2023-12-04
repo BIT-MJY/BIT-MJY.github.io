@@ -168,7 +168,13 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   <br>
   A toy dataset about mapping multiple cues to mutual poses of robots.
   <br>
-[[Description](https://github.com/BIT-MJY/Cues_Poses_Datasets)]  
+[[Description](https://github.com/BIT-MJY/Cues_Poses_Datasets)]
+
+- **Cam4DOcc**
+  <br>
+  A Benchmark for Camera-Only 4D Occupancy Forecasting.
+  <br>
+[[Description](https://github.com/haomo-ai/Cam4DOcc)]
 
 ## Patents
 
