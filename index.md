@@ -37,7 +37,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
 
-- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#847168">Mentorship</i></strong>
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
   <br>
@@ -65,7 +65,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
  
-- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#e74d3c">Mentorship</i></strong>
+- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#847168">Mentorship</i></strong>
   <br>
   Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
   <br>
