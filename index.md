@@ -9,10 +9,8 @@ I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Inst
 
 ## Research Interests
 
-- Localization and Mapping
-- Place Recognition
-- Point Cloud Prediction
-- Occupancy Perception
+- Localization and Mapping, Place Recognition
+- Point Cloud Prediction, Occupancy Forecasting
 - ...
 
 ## News
