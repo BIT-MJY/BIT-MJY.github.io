@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-I received the B.S degree in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020. I’m currently a Master student in Intelligent Vehicle Research Center at Beijing Institute of Technology. I am trying to apply machine learning methods to robotics and use multiple sensor data for enhanced perception capability of robots and intelligent vehicles.
+I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020 and 2023 respectively. I interned at [Haomo AI Technology Co., Ltd.](https://github.com/haomo-ai) in 2022 and 2023, and completed work on place recognition and occupancy forecasting for autonomous driving.
 
 
 ## Research Interests
 
-- Robotics
-- Intelligent Vehicles
-- Computer Vision
 - Localization and Mapping
+- Place Recognition
+- Point Cloud Prediction
+- Occupancy Perception
+- ...
 
 ## News
 - **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
@@ -37,7 +38,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
 ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
 
-- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#847168">Mentorship</i></strong>
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
   <br>
@@ -65,7 +66,7 @@ I received the B.S degree in vehicle engineering from the Beijing Institute of T
   [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
  
-- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#847168">Mentorship</i></strong>
+- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#0000FF">Mentorship</i></strong>
   <br>
   Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
   <br>
