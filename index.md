@@ -40,9 +40,9 @@ I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Inst
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
   <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023. (not online yet)
+  IEEE Robotics and Automation Letters (RA-L), 2023. 
   <br>
-  [[PDF](https://arxiv.org/abs/2311.03198)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
+  [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
 ![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
 
 
