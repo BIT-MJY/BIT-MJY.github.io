@@ -32,8 +32,7 @@ I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Inst
   <br>
   arXiv preprint arXiv:2311.17663, 2023.
   <br>
-  [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
-![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
+  [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
 
 - **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
