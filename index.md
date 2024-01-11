@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020 and 2023 respectively. I interned at [Haomo AI Technology Co., Ltd.](https://github.com/haomo-ai) in 2022 and 2023, and completed work on place recognition and occupancy forecasting for autonomous driving.
+I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University, supervised by [Prof. Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ). I received my B.S. and M.S. degrees in vehicle engineering from the Beijing Institute of Technology, Beijing, China, in 2020 and 2023 respectively. I interned at [Haomo AI Technology Co., Ltd.](https://github.com/haomo-ai) in 2022 and 2023, and completed work on place recognition and occupancy forecasting for autonomous driving.
 
 
 ## Research Interests
