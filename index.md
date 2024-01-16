@@ -55,7 +55,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
 
- - **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
+- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
   <br>
