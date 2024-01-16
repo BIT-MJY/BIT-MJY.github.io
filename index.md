@@ -24,7 +24,65 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
 - **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
 - **[Apr. 2022]** Our paper _A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles_ is accepted to **IV 2022**.
 
-## Publications
+## SELECTED Publications
+
+### Place Recognition and SLAM
+
+- **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
+  <br>
+  **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen* 
+  <br>
+  IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2203.03397.pdf)]  [[Code](https://github.com/haomo-ai/OverlapTransformer)]  
+![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)
+
+- **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
+  <br>
+  **Junyi Ma**, Xieyuanli Chen, Jingyi Xu, Guangming Xiong* 
+  <br>
+  IEEE Transactions on Industrial Electronics (TIE), 2022.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
+![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)
+
+- **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
+  <br>
+  **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
+  <br>
+  IEEE Transactions on Industrial Informatics (TII), 2023.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
+![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
+
+ - **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
+  <br>
+  Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
+  <br>
+  IEEE Robotics and Automation Letters (RA-L), 2023. 
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
+![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
+
+- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments** <strong><i style="color:#e74d3c">Supervisor First</i></strong>
+  <br>
+  Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu 
+  <br>
+  Unmanned Systems (US).
+  <br>
+  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
+![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
+
+- **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction** 
+  <br>
+  Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
+  <br>
+  Green Energy and Intelligent Transportation (GEIT), 2023.
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
+![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg) 
+
+### Point Cloud and Occupancy Forecasting
 
 - **Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
   <br>
@@ -35,16 +93,25 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
   ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
 
+- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#0000FF">Mentorship</i></strong>
+  <br>
+  Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
+  <br>
+  IEEE Robotics and Automation Letters (RA-L), 2023.
+  <br>
+  [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
+![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
 
-- **LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition** <strong><i style="color:#0000FF">Mentorship</i></strong>
-  <br>
-  Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
-  <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023. 
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
-![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
+### Others
 
+- **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
+  <br>
+  **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
+  <br>
+  Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
+![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
 
 - **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**
   <br>
@@ -55,51 +122,6 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   [[PDF](https://arxiv.org/abs/2310.00874)]  [[Code](https://github.com/biter0088/pc-nerf)]  
 ![Github stars](https://img.shields.io/github/stars/biter0088/pc-nerf.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/pc-nerf.svg)
 
-- **CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data**
-  <br>
-  **Junyi Ma**, Guangming Xiong, Jingyi Xu, Xieyuanli Chen* 
-  <br>
-  IEEE Transactions on Industrial Informatics (TII), 2023.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/10273716)]  [[Code](https://github.com/BIT-MJY/CVTNet)]  
-![Github stars](https://img.shields.io/github/stars/BIT-MJY/CVTNet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/CVTNet.svg)
- 
-- **PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction** <strong><i style="color:#0000FF">Mentorship</i></strong>
-  <br>
-  Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
-  <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023.
-  <br>
-  [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
-![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
- 
-- **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction** 
-  <br>
-  Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
-  <br>
-  Green Energy and Intelligent Transportation (GEIT), 2023.
-  <br>
-  [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
-![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg) 
-
-- **SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data**
-  <br>
-  **Junyi Ma**, Xieyuanli Chen, Jingyi Xu, Guangming Xiong* 
-  <br>
-  IEEE Transactions on Industrial Electronics (TIE), 2022.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9994714)]  [[Code](https://github.com/BIT-MJY/SeqOT)]  
-![Github stars](https://img.shields.io/github/stars/BIT-MJY/SeqOT.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/SeqOT.svg)   
- 
-- **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
-  <br>
-  **Junyi Ma**, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, and Xieyuanli Chen* 
-  <br>
-  IEEE Robotics and Automation Letters (RA-L), 2022, and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2203.03397.pdf)]  [[Code](https://github.com/haomo-ai/OverlapTransformer)]  
-![Github stars](https://img.shields.io/github/stars/haomo-ai/OverlapTransformer.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/OverlapTransformer.svg)   
-    
 - **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
   <br>
   Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao* 
@@ -108,41 +130,6 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
 ![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
- 
-- **Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds**
-  <br>
-  Zhen Luo, **Junyi Ma**, Guangming Xiong*, Xiuzhong Hu, Zijie Zhou, Jiahui Xu 
-  <br>
-  IEEE International Conference on Unmanned Systems (ICUS), 2022.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9986567)]  [[Code](https://github.com/Blurryface0814/SunnyNet)]  
-![Github stars](https://img.shields.io/github/stars/Blurryface0814/SunnyNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/SunnyNet.svg)  
- 
-- **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments** <strong><i style="color:#e74d3c">Supervisor First</i></strong>
-  <br>
-  Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu 
-  <br>
-  Unmanned Systems (US).
-  <br>
-  [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
-![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
-   
-- **Mutual Pose Recognition Based on Multiple Cues in Multi-robot Systems**
-  <br>
-  **Junyi Ma**, Guangming Xiong*, Jingyi Xu, Jiarui Song, and Dong Sun
-  <br>
-  Best paper for IEEE International Conference on Unmanned Systems (ICUS), 2021.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9641141)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]  
-![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)    
-
-- **Cooperative Control and Autonomous Driving System for Multi-Robot in the No Man’s Land**
-  <br>
-  **Junyi Ma**, Jingyi Xu, Quanfu Yu, Jiarui Song
-  <br>
-  International Conference on Computer Engineering and Intelligent Control (ICCEIC), 2020.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/9361811)] [[Code]()]  
  
 ## Other Contributions
 - **Pytorch Version for OverlapNet** [[Code](https://github.com/PRBonn/OverlapNet)]  
