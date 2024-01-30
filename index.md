@@ -97,7 +97,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   <br>
   Zhen Luo, **Junyi Ma**, Zijie Zhou, Guangming Xiong 
   <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023.
+  IEEE Robotics and Automation Letters (RA-L), 2023, and IEEE International Conference on Robotics and Automation, 2024.
   <br>
   [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
 ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
