@@ -14,6 +14,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
 - ...
 
 ## News
+- **[Feb. 2024]** Our paper _PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments_ is accepted by **IEEE Transactions on Intelligent Vehicles**.
 - **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
 - **[Sep. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
 - **[May. 2023]** Our paper _PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction_ is accepted to **RAL**, which will also be transferred to **ICRA 2024**.
@@ -115,9 +116,9 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
 
 - **PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**
   <br>
-  Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han*, **Junyi Ma***
+  Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, **Junyi Ma***
   <br>
-  arXiv preprint arXiv:2310.00874, 2023.
+  IEEE Transactions on Intelligent Vehicles (TIV), 2024.
   <br>
   [[PDF](https://arxiv.org/abs/2310.00874)]  [[Code](https://github.com/biter0088/pc-nerf)]  
 ![Github stars](https://img.shields.io/github/stars/biter0088/pc-nerf.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/pc-nerf.svg)
