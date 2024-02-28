@@ -66,7 +66,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
 ![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
 
-- **Explicit Interaction for Fusion-Based Place Recognition.**
+- **Explicit Interaction for Fusion-Based Place Recognition**
   <br>
   Jingyi Xu, **Junyi Ma**, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
   <br>
