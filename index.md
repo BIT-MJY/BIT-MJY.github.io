@@ -14,6 +14,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
 - ...
 
 ## News
+- **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
 - **[Feb. 2024]** Our paper _PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments_ is accepted by **IEEE Transactions on Intelligent Vehicles**.
 - **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
 - **[Sep. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
@@ -65,6 +66,15 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
 ![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
 
+- **Explicit Interaction for Fusion-Based Place Recognition.**
+  <br>
+  Jingyi Xu, **Junyi Ma**, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
+  <br>
+  arXiv preprint arXiv:2402.17264, 2024.
+  <br>
+  [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
+![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
+
 - **MUC-LOAM: Multi-uncertainty Captured Multi-robot Lidar Odometry and Mapping Framework for Large-scale Environments** <strong><i style="color:#e74d3c">Supervisor First</i></strong>
   <br>
   Guangming Xiong*, **Junyi Ma**, Huilong Yu, Jingyi Xu, Jiahui Xu 
@@ -89,7 +99,7 @@ I am an incoming PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shang
   <br>
   **Junyi Ma#**, Xieyuanli Chen#, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang*
   <br>
-  arXiv preprint arXiv:2311.17663, 2023.
+  IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2024
   <br>
   [[PDF](https://arxiv.org/abs/2311.17663)]  [[Code](https://github.com/haomo-ai/Cam4DOcc)]  
   ![Github stars](https://img.shields.io/github/stars/haomo-ai/Cam4DOcc.svg)  ![Github forks](https://img.shields.io/github/forks/haomo-ai/Cam4DOcc.svg)
