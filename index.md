@@ -191,5 +191,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 - Outstanding Master's Thesis, Beijing Institute of Technology, 2023.
 - National Scholarship for Graduate Students, Ministry of Education of China, 2022.
 - National Scholarship for Undergraduate Students, Ministry of Education of China, 2019.
+- Outstanding Master's Graduates in Beijing, 2023.
+- Outstanding Bachelor's Graduates in Beijing, 2020.
 
 
