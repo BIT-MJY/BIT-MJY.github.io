@@ -12,6 +12,8 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 - Autonomous Driving: localization and mapping, place recognition, point cloud prediction, occupancy forecasting, ...
 - Robotics: human-object interaction, ...
 
+<strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
+
 ## News
 - **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
 - **[Feb. 2024]** Our paper _PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments_ is accepted by **IEEE Transactions on Intelligent Vehicles**.
