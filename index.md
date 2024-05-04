@@ -9,9 +9,8 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 ## Research Interests
 
-- Localization and Mapping, Place Recognition
-- Point Cloud Prediction, Occupancy Forecasting
-- ...
+- Autonomous Driving: localization and mapping, place recognition, point cloud prediction, occupancy forecasting, ...
+- Robotics: human-object interaction, ...
 
 ## News
 - **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
