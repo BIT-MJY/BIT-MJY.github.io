@@ -28,6 +28,16 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 ## SELECTED Publications
 
+### HOI Prediction
+
+- **Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**
+  <br>
+  **Junyi Ma**, Jingyi Xu, Xieyuanli Chen, Hesheng Wang*
+  <br>
+  arXiv preprint arXiv:2405.04370, 2024.
+  <br>
+  [[PDF](https://arxiv.org/abs/2405.04370)] [[Code](https://github.com/IRMVLab/Diff-IP2D)]    
+
 ### Place Recognition and SLAM
 
 - **OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition**
