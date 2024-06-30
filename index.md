@@ -14,6 +14,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 <strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
 
 ## News
+- **[Jun. 2024]** Our paper _Explicit Interaction for Fusion-Based Place Recognition_ is accepted by **IROS 2024**.
 - **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
 - **[Feb. 2024]** Our paper _PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments_ is accepted by **IEEE Transactions on Intelligent Vehicles**.
 - **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
@@ -80,7 +81,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   <br>
   Jingyi Xu, **Junyi Ma**, Qi Wu, Zijie Zhou, Yue Wang, Xieyuanli Chen, Ling Pei*
   <br>
-  arXiv preprint arXiv:2402.17264, 2024.
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
   <br>
   [[PDF](https://arxiv.org/abs/2402.17264)] [[Code](https://github.com/BIT-XJY/EINet)]    
 ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EINet.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EINet.svg)
