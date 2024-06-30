@@ -72,7 +72,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   <br>
   Zijie Zhou, Jingyi Xu, Guangming Xiong, **Junyi Ma***
   <br>
-  IEEE Robotics and Automation Letters (RA-L), 2023. 
+  IEEE Robotics and Automation Letters (RA-L), 2023, and presented on IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. 
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
 ![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
