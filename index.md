@@ -14,18 +14,10 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 <strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
 
 ## News
+- **[Jun. 2024]** Our paper _A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles_ is accepted by **Energy**.
 - **[Jun. 2024]** Our paper _Explicit Interaction for Fusion-Based Place Recognition_ is accepted by **IROS 2024**.
 - **[Feb. 2024]** Our paper _Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications_ is accepted by **CVPR 2024**.
 - **[Feb. 2024]** Our paper _PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments_ is accepted by **IEEE Transactions on Intelligent Vehicles**.
-- **[Dec. 2023]** Our paper _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ is accepted by **RAL**.
-- **[Sep. 2023]** Our paper _CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data_ is accepted by **IEEE Transactions on Industrial Informatics**.
-- **[May. 2023]** Our paper _PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction_ is accepted to **RAL**, which will also be transferred to **ICRA 2024**.
-- **[Mar. 2023]** Our paper _A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction_ is accepted to **Green Energy and Intelligent Transportation**.
-- **[Dec. 2022]** Our paper _SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data_ is accepted by **IEEE Transactions on Industrial Electronics**.
-- **[Aug. 2022]** Our paper _Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds_ is accepted to **ICUS 2022**.
-- **[May. 2022]** Our paper _OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition_ is accepted to **RAL/IROS 2022**.
-- **[Apr. 2022]** Our paper _Multi-Uncertainty Captured Multi-Robot Lidar Odometry and Mapping Framework for Large-Scale Environments_ is accepted by **Unmanned Systems**.
-- **[Apr. 2022]** Our paper _A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles_ is accepted to **IV 2022**.
 
 ## SELECTED Publications
 
@@ -204,5 +196,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 - National Scholarship for Undergraduate Students, Ministry of Education of China, 2019.
 - Outstanding Master's Graduates in Beijing, 2023.
 - Outstanding Bachelor's Graduates in Beijing, 2020.
+- Best Paper Award at IEEE International Conference on Unmanned Systems (ICUS), 2021.
+- Outstanding Paper Presented at the Autonomous Robotic Technology Seminar (ARTS), 2023
 
 
