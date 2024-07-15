@@ -87,6 +87,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S2301385023410030)] [[Code](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS)]    
 ![Github stars](https://img.shields.io/github/stars/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS.svg)
 
+<!--
 - **A Non-Uniform Quadtree Map Building Method Including Dead-End Semantics Extraction** 
   <br>
   Xiuzhong Hu, Guangming Xiong*, **Junyi Ma**, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou
@@ -94,7 +95,8 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   Green Energy and Intelligent Transportation (GEIT), 2023.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S2773153723000075?via%3Dihub)]  [[Code](https://github.com/biter0088/Non-uniform-quadtree-map)]  
-![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg) 
+![Github stars](https://img.shields.io/github/stars/biter0088/Non-uniform-quadtree-map.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/Non-uniform-quadtree-map.svg)
+-->
 
 ### Point Cloud and Occupancy Forecasting
 
