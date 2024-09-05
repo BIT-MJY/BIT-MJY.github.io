@@ -23,6 +23,15 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 ### HOI Prediction
 
+- **MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**
+  <br>
+  **Junyi Ma#**, Xieyuanli Chen#, Wentao Bao, Jingyi Xu, Hesheng Wang*
+  <br>
+  arXiv preprint arXiv:2409.02638, 2024.
+  <br>
+  [[PDF](https://arxiv.org/abs/2409.02638)] [[Page](https://irmvlab.github.io/madiff.github.io/)]   
+
+
 - **Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**
   <br>
   **Junyi Ma**, Jingyi Xu, Xieyuanli Chen, Hesheng Wang*
