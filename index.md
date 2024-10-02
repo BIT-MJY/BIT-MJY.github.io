@@ -82,7 +82,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 - **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
   <br>
-  Zhangshuo Qi, Junyi Ma, Jingyi Xu, Zijie Zhou, Luqi Cheng, Guangming Xiong
+  Zhangshuo Qi#, **Junyi Ma#**, Jingyi Xu, Zijie Zhou, Luqi Cheng, Guangming Xiong*
   <br>
   arXiv preprint arXiv:2410.00299, 2024.
   <br>
