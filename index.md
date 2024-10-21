@@ -80,7 +80,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   [[PDF](https://ieeexplore.ieee.org/document/10373064)]  [[Code](https://github.com/ZhouZijie77/LCPR)]  
 ![Github stars](https://img.shields.io/github/stars/ZhouZijie77/LCPR.svg)  ![Github forks](https://img.shields.io/github/forks/ZhouZijie77/LCPR.svg)
 
-- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving**
+- **GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving** <strong><i style="color:#0000FF">Equal Contribution</i></strong>
   <br>
   Zhangshuo Qi#, **Junyi Ma#**, Jingyi Xu, Zijie Zhou, Luqi Cheng, Guangming Xiong*
   <br>
