@@ -225,6 +225,6 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 ## Services
 
 - Reviewer of TRO, RA-L, TASE, TCSVT, ICRA, IROS.
-- Executive Committee Member of Autonomous Robotic Technology Seminar (ARTS).
+- Executive Committee Member of [Autonomous Robotic Technology Seminar (ARTS)](https://www.roboarts.cn/index).
 
 
