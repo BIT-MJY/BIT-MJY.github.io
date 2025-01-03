@@ -87,8 +87,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   arXiv preprint arXiv:2410.00299, 2024.
   <br>
   [[PDF](https://arxiv.org/pdf/2410.00299)] [[Code](https://github.com/QiZS-BIT/GSPR)]    
-
-
+  ![Github stars](https://img.shields.io/github/stars/QiZS-BIT/GSPR.svg)  ![Github forks](https://img.shields.io/github/forks/QiZS-BIT/GSPR.svg)
 
 - **Explicit Interaction for Fusion-Based Place Recognition**
   <br>
