@@ -14,7 +14,8 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 <strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
 
 
-## News
+## 
+- **[Feb. 2025]** Our paper _Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting_ is accepted by **CVPR 2025**. It is a follow-up work of our Cam4DOcc (CVPR 2024).
 - **[Sep. 2024]** I will chair Session _Localization I_ at **IROS 2024**.
 - **[Jun. 2024]** Our paper _A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles_ is accepted by **Energy**.
 - **[Jun. 2024]** Our paper _Explicit Interaction for Fusion-Based Place Recognition_ and _LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition_ will be presented at **IROS 2024**.
@@ -137,6 +138,15 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   <br>
   [[PDF](https://arxiv.org/abs/2304.07773)]  [[Code](https://github.com/Blurryface0814/PCPNet)]  
 ![Github stars](https://img.shields.io/github/stars/Blurryface0814/PCPNet.svg)  ![Github forks](https://img.shields.io/github/forks/Blurryface0814/PCPNet.svg)  
+
+- **Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting**
+  <br>
+  Jingyi Xu, Xieyuanli Chen, **Junyi Ma**, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei*
+  <br>
+  IEEE/CVF Conf.~on Computer Vision and Pattern Recognition (CVPR), 2025
+  <br>
+  [[PDF](https://arxiv.org/pdf/2411.14169)]  [[Code](https://github.com/BIT-XJY/EfficientOCF)]  
+  ![Github stars](https://img.shields.io/github/stars/BIT-XJY/EfficientOCF.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/EfficientOCF.svg)
 
 ### Others
 
