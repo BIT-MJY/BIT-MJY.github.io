@@ -14,7 +14,7 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 <strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
 
 
-## 
+## News
 - **[Feb. 2025]** Our paper _Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting_ is accepted by **CVPR 2025**. It is a follow-up work of our Cam4DOcc (CVPR 2024).
 - **[Sep. 2024]** I will chair Session _Localization I_ at **IROS 2024**.
 - **[Jun. 2024]** Our paper _A Transferable Perception-guided EMS for Series Hybrid Electric Unmanned Tracked Vehicles_ is accepted by **Energy**.
