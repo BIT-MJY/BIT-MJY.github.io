@@ -26,6 +26,15 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
 
 ### HOI Prediction
 
+- **MMTwin: Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**
+  <br>
+  **Junyi Ma**, Wentao Bao, Jingyi Xu, Guanzhong Sun, Xieyuanli Chen, Hesheng Wang
+  <br>
+  arXiv preprint arXiv:2504.07375, 2025.
+  <br>
+  [[PDF](https://arxiv.org/abs/2504.07375)] [[Page](https://irmvlab.github.io/mmtwin.github.io/)]   
+
+
 - **MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**
   <br>
   **Junyi Ma#**, Xieyuanli Chen#, Wentao Bao, Jingyi Xu, Hesheng Wang*
