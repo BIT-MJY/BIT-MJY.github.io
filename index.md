@@ -32,7 +32,18 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   <br>
   arXiv preprint arXiv:2504.07375, 2025.
   <br>
-  [[PDF](https://arxiv.org/abs/2504.07375)] [[Page](https://irmvlab.github.io/mmtwin.github.io/)]   
+  [[PDF](https://arxiv.org/abs/2504.07375)] [[Page](https://irmvlab.github.io/mmtwin.github.io/)] [[Code](https://github.com/IRMVLab/MMTwin)]   
+![Github stars](https://img.shields.io/github/stars/IRMVLab/MMTwin.svg)  ![Github forks](https://img.shields.io/github/forks/IRMVLab/MMTwin.svg)   
+
+
+- **Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**
+  <br>
+  **Junyi Ma**, Jingyi Xu, Xieyuanli Chen, Hesheng Wang*
+  <br>
+  arXiv preprint arXiv:2405.04370, 2024.
+  <br>
+  [[PDF](https://arxiv.org/abs/2405.04370)] [[Code](https://github.com/IRMVLab/Diff-IP2D)]     
+![Github stars](https://img.shields.io/github/stars/IRMVLab/Diff-IP2D.svg)  ![Github forks](https://img.shields.io/github/forks/IRMVLab/Diff-IP2D.svg)   
 
 
 - **MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**
@@ -43,14 +54,6 @@ I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao T
   <br>
   [[PDF](https://arxiv.org/abs/2409.02638)] [[Page](https://irmvlab.github.io/madiff.github.io/)]   
 
-
-- **Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**
-  <br>
-  **Junyi Ma**, Jingyi Xu, Xieyuanli Chen, Hesheng Wang*
-  <br>
-  arXiv preprint arXiv:2405.04370, 2024.
-  <br>
-  [[PDF](https://arxiv.org/abs/2405.04370)] [[Code](https://github.com/IRMVLab/Diff-IP2D)]    
 
 ### Place Recognition and SLAM
 
