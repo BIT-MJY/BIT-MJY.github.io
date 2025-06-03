@@ -4,12 +4,31 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in [IRMV Lab](https://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University, supervised by [Prof. Hesheng Wang](https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ). I obtained my B.S. degree in vehicle engineering from the Beijing Institute of Technology in 2020. Prior to this, I completed my bachelor thesis under the guidance of [Prof. Oliver Dürr](https://scholar.google.ch/citations?user=T8hH3TMnFPwC&hl=de) (Konstanz University of Applied Sciences). I received my M.S. degree in [Intelligent Vehicle Research Center](https://github.com/bit-ivrc) at the Beijing Institute of Technology in 2023, supervised by [Prof. Guangming Xiong](https://ieeexplore.ieee.org/author/37286205000) and [Prof. Xieyuanli Chen](https://xieyuanli-chen.com/) (National University of Defense Technology). Besides, I also interned at [Haomo AI Technology Co., Ltd.](https://github.com/haomo-ai) in 2022 and 2023, working on place recognition and occupancy forecasting for autonomous driving. Currently, I am dedicated to exploring cutting-edge technologies related to robotics.
+<ul>
+  <li>
+    <strong>Ph.D. candidate</strong> at 
+    <a href="https://irmv.sjtu.edu.cn/" target="_blank">IRMV Lab</a>, 
+    Shanghai Jiao Tong University (Supervisor: 
+    <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ" target="_blank">Prof. Hesheng Wang</a>)
+  </li>
+  <li>
+    <strong>B.S. in Vehicle Engineering</strong>, 
+    Beijing Institute of Technology (2020) | Bachelor Thesis Advisor: 
+    <a href="https://scholar.google.ch/citations?user=T8hH3TMnFPwC&hl=de" target="_blank">Prof. Oliver Dürr</a>
+  </li>
+  <li>
+    <strong>M.S. in Intelligent Vehicle Research</strong>, 
+    <a href="https://github.com/bit-ivrc" target="_blank">IVRC</a>, 
+    Beijing Institute of Technology (2023) | Supervisors: 
+    <a href="https://ieeexplore.ieee.org/author/37286205000" target="_blank">Prof. Guangming Xiong</a> & 
+    <a href="https://xieyuanli-chen.com/" target="_blank">Prof. Xieyuanli Chen</a>
+  </li>
+</ul>
 
-## Research Interests
 
-- Autonomous Driving: localization and mapping, place recognition, point cloud prediction, occupancy forecasting, ...
-- Robotics: human-object interaction, ...
+
+My current work revolves around ​cutting-edge robotics technologies.
+
 
 <strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
 
