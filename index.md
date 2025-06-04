@@ -198,14 +198,6 @@ My current work revolves around ​cutting-edge robotics technologies.
   [[PDF](https://arxiv.org/abs/2310.00874)]  [[Code](https://github.com/biter0088/pc-nerf)]  
 ![Github stars](https://img.shields.io/github/stars/biter0088/pc-nerf.svg)  ![Github forks](https://img.shields.io/github/forks/biter0088/pc-nerf.svg)
 
-- **A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles**
-  <br>
-  Jingyi Xu, Zirui Li, Li Gao, **Junyi Ma**, Qi Liu, and Yanan Zhao* 
-  <br>
-  IEEE Intelligent Vehicles Symposium (IV), 2022.
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/9827042)]  [[Code](https://github.com/BIT-XJY/RL-based-Transferable-EMS)]  
-![Github stars](https://img.shields.io/github/stars/BIT-XJY/RL-based-Transferable-EMS.svg)  ![Github forks](https://img.shields.io/github/forks/BIT-XJY/RL-based-Transferable-EMS.svg)  
  
 ## Other Contributions
 - **Pytorch Version for OverlapNet** [[Code](https://github.com/PRBonn/OverlapNet)]  
@@ -238,6 +230,12 @@ My current work revolves around ​cutting-edge robotics technologies.
   A Benchmark for Camera-Only 4D Occupancy Forecasting.
   <br>
 [[Description](https://github.com/haomo-ai/Cam4DOcc)]
+
+- **CABH Benchmark**
+  <br>
+  Multiple egocentric videos capturing human hands performing simple object manipulation tasks.​​
+  <br>
+[[Description](https://github.com/IRMVLab/MMTwin)]
 
 ## Patents
 
