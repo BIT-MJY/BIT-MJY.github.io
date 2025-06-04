@@ -14,14 +14,13 @@ layout: homepage
   <li>
     <strong>B.S. in Mechanical Engineering</strong>, 
     Beijing Institute of Technology (2020) | Bachelor Thesis Advisor: 
-    <a href="https://scholar.google.ch/citations?user=T8hH3TMnFPwC&hl=de" target="_blank">Prof. Oliver Dürr</a>
+    <a href="https://scholar.google.ch/citations?user=T8hH3TMnFPwC&hl=de" target="_blank">Prof. Oliver Dürr (Hochschule Konstanz​)</a>
   </li>
   <li>
-    <strong>M.S. in Mechanical Engineering</strong>, 
-    <a href="https://github.com/bit-ivrc" target="_blank">IVRC</a>, 
+    <strong>M.S. in Mechanical Engineering</strong>,  
     Beijing Institute of Technology (2023) | Supervisors: 
     <a href="https://ieeexplore.ieee.org/author/37286205000" target="_blank">Prof. Guangming Xiong</a> & 
-    <a href="https://xieyuanli-chen.com/" target="_blank">Prof. Xieyuanli Chen</a>
+    <a href="https://xieyuanli-chen.com/" target="_blank">Prof. Xieyuanli Chen (NUDT)</a>
   </li>
 </ul>
 
