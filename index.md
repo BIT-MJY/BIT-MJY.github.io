@@ -9,7 +9,7 @@ layout: homepage
     <strong>Ph.D. candidate</strong> at 
     <a href="https://irmv.sjtu.edu.cn/" target="_blank">IRMV Lab</a>, 
     Shanghai Jiao Tong University | Supervisor: 
-    <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ" target="_blank">Prof. Hesheng Wang</a>)
+    <a href="https://scholar.google.com/citations?hl=en&user=q6AY9XsAAAAJ" target="_blank">Prof. Hesheng Wang</a>
   </li>
   <li>
     <strong>B.S. in Mechanical Engineering</strong>, 
