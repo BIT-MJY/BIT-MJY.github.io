@@ -39,7 +39,7 @@ layout: homepage
 
 - **MMTwin: Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**
   <br>
-  **Junyi Ma**, Wentao Bao, Jingyi Xu, Guanzhong Sun, Xieyuanli Chen, Hesheng Wang
+  **Junyi Ma**, Wentao Bao, Jingyi Xu, Guanzhong Sun, Xieyuanli Chen, Hesheng Wang*
   <br>
   arXiv preprint arXiv:2504.07375, 2025.
   <br>
@@ -67,7 +67,7 @@ layout: homepage
 
 - **Zero-Shot Temporal Interaction Localization for Egocentric Videos**
   <br>
-  Erhang Zhang#, **Junyi Ma#**, Yin-Dong Zheng, Yixuan Zhou, Hesheng Wang
+  Erhang Zhang#, **Junyi Ma#**, Yin-Dong Zheng, Yixuan Zhou, Hesheng Wang*
   <br>
   arXiv preprint arXiv:2506.03662, 2025.
   <br>
