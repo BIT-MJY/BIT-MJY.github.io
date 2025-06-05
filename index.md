@@ -25,13 +25,6 @@ layout: homepage
 </ul>
 
 
-
-My current work revolves around ​cutting-edge robotics technologies.
-
-
-<strong><i style="color:#0000FF">If you think we have opportunities to collaborate on some innovative ideas, please feel free to contact me via <junyi.ma@sjtu.edu.cn>.</i></strong>
-
-
 ## News
 - **[Feb. 2025]** Our paper _Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting_ is accepted by **CVPR 2025**. It is a follow-up work of our Cam4DOcc (CVPR 2024).
 - **[Sep. 2024]** I will chair Session _Localization I_ at **IROS 2024**.
@@ -72,6 +65,14 @@ My current work revolves around ​cutting-edge robotics technologies.
   <br>
   [[PDF](https://arxiv.org/abs/2409.02638)] [[Page](https://irmvlab.github.io/madiff.github.io/)]   
 
+- **Zero-Shot Temporal Interaction Localization for Egocentric Videos**
+  <br>
+  Erhang Zhang#, **Junyi Ma#**, Yin-Dong Zheng, Yixuan Zhou, Hesheng Wang
+  <br>
+  arXiv preprint arXiv:2506.03662, 2025.
+  <br>
+  [[PDF](https://arxiv.org/abs/2506.03662)] [[Code](https://github.com/IRMVLab/EgoLoc)]
+  
 
 ### Place Recognition and SLAM
 
