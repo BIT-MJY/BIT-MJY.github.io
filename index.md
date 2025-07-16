@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+<div style="display: flex; align-items: center; margin: 20px 0;">
+    <img src="https://github.com/BIT-MJY/BIT-MJY.github.io/blob/main/assets/img/this_is_lift.jpg" alt="This is Life" style="width: 30%; margin-right: 20px;">
+    <span style="font-size: 24px; font-style: italic;">this is life ...</span>
+</div>
+
+
 ## About Me
 
 <ul>
