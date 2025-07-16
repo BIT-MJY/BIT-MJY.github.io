@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/this_is_lift.jpg" class="teaser img-fluid z-depth-1">
-  </div>
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/this_is_lift.jpg" class="teaser img-fluid z-depth-1" style="width: 33.33%;">
+</div>
 
 
 ## About Me
