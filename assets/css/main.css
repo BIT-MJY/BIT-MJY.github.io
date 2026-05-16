@@ -244,11 +244,10 @@ a:hover {
 }
 
 .visitor-map {
-  width: 160px !important;
-  max-width: 160px !important;
+  width: 260px !important;
+  max-width: 260px !important;
   margin: 18px 0 0;
   overflow: hidden;
-  zoom: 0.33;
 }
 
 .visitor-map img,
@@ -259,8 +258,8 @@ a:hover {
 .visitor-map embed,
 .visitor-map a,
 .visitor-map div {
-  max-width: 160px !important;
-  width: 160px !important;
+  max-width: 260px !important;
+  width: 260px !important;
   height: auto !important;
 }
 
