@@ -244,14 +244,24 @@ a:hover {
 }
 
 .visitor-map {
-  width: 33.333%;
-  max-width: 180px;
-  min-width: 120px;
+  width: 160px !important;
+  max-width: 160px !important;
   margin: 18px 0 0;
+  overflow: hidden;
+  zoom: 0.33;
 }
 
-.visitor-map script + * {
-  max-width: 100%;
+.visitor-map img,
+.visitor-map iframe,
+.visitor-map canvas,
+.visitor-map svg,
+.visitor-map object,
+.visitor-map embed,
+.visitor-map a,
+.visitor-map div {
+  max-width: 160px !important;
+  width: 160px !important;
+  height: auto !important;
 }
 
 .footer {
