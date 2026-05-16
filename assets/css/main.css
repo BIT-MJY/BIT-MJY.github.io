@@ -172,15 +172,15 @@ a:hover {
 
 .paper-box {
   display: grid;
-  grid-template-columns: 220px minmax(0, 1fr);
-  gap: 18px;
-  padding: 16px 0;
+  grid-template-columns: 140px minmax(0, 1fr);
+  gap: 14px;
+  padding: 12px 0;
   border-bottom: 1px solid var(--line);
 }
 
 .paper-image {
   position: relative;
-  height: 136px;
+  height: 82px;
   background: #fff;
   border: 1px solid #d8e5ee;
   border-radius: 4px;
@@ -318,6 +318,6 @@ a:hover {
   }
 
   .paper-image {
-    height: 150px;
+    height: 92px;
   }
 }
