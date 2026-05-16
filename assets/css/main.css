@@ -244,8 +244,10 @@ a:hover {
 }
 
 .visitor-map {
-  max-width: 420px;
-  margin-top: 12px;
+  width: 33.333%;
+  max-width: 180px;
+  min-width: 120px;
+  margin: 18px 0 0;
 }
 
 .visitor-map script + * {
