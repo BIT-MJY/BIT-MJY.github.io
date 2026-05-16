@@ -243,6 +243,15 @@ a:hover {
   font-weight: 700;
 }
 
+.visitor-map {
+  max-width: 420px;
+  margin-top: 12px;
+}
+
+.visitor-map script + * {
+  max-width: 100%;
+}
+
 .footer {
   margin-top: 38px;
   padding-top: 18px;
