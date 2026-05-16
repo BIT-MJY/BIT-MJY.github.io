@@ -244,23 +244,7 @@ a:hover {
 }
 
 .visitor-map {
-  width: 260px !important;
-  max-width: 260px !important;
   margin: 18px 0 0;
-  overflow: hidden;
-}
-
-.visitor-map img,
-.visitor-map iframe,
-.visitor-map canvas,
-.visitor-map svg,
-.visitor-map object,
-.visitor-map embed,
-.visitor-map a,
-.visitor-map div {
-  max-width: 260px !important;
-  width: 260px !important;
-  height: auto !important;
 }
 
 .footer {
