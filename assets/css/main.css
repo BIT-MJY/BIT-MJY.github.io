@@ -180,8 +180,8 @@ a:hover {
 
 .paper-image {
   position: relative;
-  min-height: 128px;
-  background: linear-gradient(135deg, #eef6fb, #f8fbfd);
+  height: 136px;
+  background: #fff;
   border: 1px solid #d8e5ee;
   border-radius: 4px;
   overflow: hidden;
@@ -190,10 +190,17 @@ a:hover {
   justify-content: center;
 }
 
+.paper-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .badge {
   position: absolute;
   left: 0;
   top: 0;
+  z-index: 1;
   padding: 4px 9px;
   background: var(--accent);
   color: #fff;
@@ -311,6 +318,6 @@ a:hover {
   }
 
   .paper-image {
-    min-height: 106px;
+    height: 150px;
   }
 }
