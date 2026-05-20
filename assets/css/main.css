@@ -215,10 +215,10 @@ a:hover {
   margin-bottom: 7px;
 }
 
-.venue {
+.paper-info .venue {
   color: #444;
-  font-style: italic;
-  font-weight: 700;
+  font-style: italic !important;
+  font-weight: 700 !important;
 }
 
 .links {
