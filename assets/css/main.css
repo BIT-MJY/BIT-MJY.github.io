@@ -218,6 +218,7 @@ a:hover {
 .venue {
   color: #444;
   font-style: italic;
+  font-weight: 700;
 }
 
 .links {
