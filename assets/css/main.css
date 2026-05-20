@@ -196,18 +196,6 @@ a:hover {
   object-fit: contain;
 }
 
-.badge {
-  position: absolute;
-  left: 0;
-  top: 0;
-  z-index: 1;
-  padding: 4px 9px;
-  background: var(--accent);
-  color: #fff;
-  font-size: 0.78rem;
-  font-weight: 700;
-}
-
 .thumb {
   padding: 18px;
   color: var(--accent-dark);
@@ -227,9 +215,21 @@ a:hover {
   margin-bottom: 7px;
 }
 
+.venue {
+  color: #444;
+  font-style: italic;
+}
+
 .links {
   color: var(--muted);
   font-weight: 600;
+}
+
+.paper-placeholder {
+  color: var(--accent-dark);
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-align: center;
 }
 
 .tag {
