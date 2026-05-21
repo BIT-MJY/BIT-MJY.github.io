@@ -170,6 +170,11 @@ a:hover {
   font-size: 0.95rem;
 }
 
+.research-highlight {
+  color: #12345c;
+  font-style: italic;
+}
+
 .paper-box {
   display: grid;
   grid-template-columns: 170px minmax(0, 1fr);
