@@ -182,6 +182,24 @@ a:hover {
   font-weight: 800;
 }
 
+.homepage-demo {
+  margin: 18px auto 6px;
+  text-align: center;
+}
+
+.homepage-demo img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.homepage-demo figcaption {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
 .paper-box {
   display: grid;
   grid-template-columns: 170px minmax(0, 1fr);
