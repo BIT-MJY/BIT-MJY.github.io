@@ -183,14 +183,15 @@ a:hover {
 }
 
 .homepage-demo {
+  width: 33.333%;
   margin: 18px auto 6px;
   text-align: center;
 }
 
 .homepage-demo img {
   display: block;
-  width: 33.333%;
-  max-width: 100%;
+  width: 100% !important;
+  max-width: 100% !important;
   margin: 0 auto;
 }
 
