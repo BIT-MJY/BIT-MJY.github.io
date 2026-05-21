@@ -189,6 +189,7 @@ a:hover {
 
 .homepage-demo img {
   display: block;
+  width: 33.333%;
   max-width: 100%;
   margin: 0 auto;
 }
