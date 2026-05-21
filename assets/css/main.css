@@ -172,8 +172,14 @@ a:hover {
 
 .research-highlight {
   color: #12345c;
+  font-weight: 800;
+}
+
+.research-highlight strong,
+.research-highlight em {
+  color: inherit;
   font-style: italic;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .paper-box {
