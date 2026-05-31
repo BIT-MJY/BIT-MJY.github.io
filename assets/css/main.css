@@ -284,6 +284,7 @@ a:hover {
 
 .visitor-map iframe,
 .visitor-map canvas,
+.visitor-map img,
 #clustrmaps {
   width: 100% !important;
 }
