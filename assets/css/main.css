@@ -258,6 +258,16 @@ a:hover {
   font-weight: 600;
 }
 
+.paper-highlight {
+  color: #c62828;
+  font-weight: 800;
+}
+
+.paper-highlight a {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .paper-placeholder {
   color: var(--accent-dark);
   font-size: 1.05rem;
